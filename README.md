@@ -25,6 +25,9 @@ struct node
 struct node *head, *ptr;   
 ptr = (struct node *)malloc(sizeof(struct node *));  
 
+![image](https://user-images.githubusercontent.com/124857336/234470942-37314cb6-625e-42a3-a0a4-f11690ede132.png)
+
+
 
 
 Circular Linked List is a linked list where all nodes are connected to form a circle.
